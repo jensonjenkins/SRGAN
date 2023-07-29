@@ -19,7 +19,35 @@ A generative adversarial network (GAN) based on the SRGAN architecture from the 
 - The matplotlib window should pop up showing the comparison, the newly generated image is then saved in the folder `generated_samples` if the target save path is unchanged.
 
 ## Demo
-![image](https://github.com/jensonjenkins/SRGAN/assets/117452546/1bfb4ce3-1088-41bc-8727-8e35d6354f88)
+<table>
+  <tr>
+    <td align="center">
+      <img src="sample_images/rose.jpg"/>
+      <br />
+      Original Image (32x32)
+    </td>
+    <td align="center">
+      <img src="generated_samples/rose_sr.jpg"/>
+      <br />
+      Generated Image (128x128)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="generated_samples/purple.jpg"/>
+      <br />
+      Original Image (32x32)
+    </td>
+    <td align="center">
+      <img src="generated_samples/purple_sr.jpg"/>
+      <br />
+      Generated Image (128x128)
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## Architecture
 ![image](https://github.com/jensonjenkins/SRGAN/assets/117452546/66f3b2a9-bb46-4602-90b3-e77c1bab60fa)
