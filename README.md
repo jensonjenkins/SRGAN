@@ -50,7 +50,7 @@ A generative adversarial network (GAN) based on the SRGAN architecture from the 
 
 
 ## Architecture
-![image](https://github.com/jensonjenkins/SRGAN/assets/117452546/66f3b2a9-bb46-4602-90b3-e77c1bab60fa)
+<img src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-19_at_11.13.45_AM_zsF2pa7.png"/>
 
 
 
