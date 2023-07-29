@@ -3,7 +3,7 @@
 A generative adversarial network (GAN) based on the SRGAN architecture from the 2016 paper, "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network" by C. Ledig et al. 
 
 ## About
-- Takes in an image of 32x32 pixels and outputs an image with an increased resolution of 128x128 pixels.
+- Takes in an image of 32x32 pixels and outputs an image with an increased resolution of 128x128 pixels (upscale factor of 4).
 - Trained using the <a href="https://press.liacs.nl/mirflickr/mirdownload.html" target="_blank">MIRFLICKR</a> dataset.
   
 ## How to run
@@ -21,8 +21,9 @@ A generative adversarial network (GAN) based on the SRGAN architecture from the 
 ## Demo
 <img src="sample_images/display_img.jpg" width="288" height="400"/>
 
-
-
+## Things to note:
+- Able to smoothen out rough gradients and sharpen edges in low resolution images
+- Current weights `SRGAN_10e_extended_(40l).h5` is still unable to provide details well enough.
 
 ## Architecture
 <img src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-19_at_11.13.45_AM_zsF2pa7.png" width="680" height="400"/>
