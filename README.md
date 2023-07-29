@@ -22,24 +22,24 @@ A generative adversarial network (GAN) based on the SRGAN architecture from the 
 <table>
   <tr>
     <td align="center">
-      <img src="sample_images/rose.jpg"/>
+      <img src="sample_images/rose.jpg" width="128" height="128"/>
       <br />
       Original Image (32x32)
     </td>
     <td align="center">
-      <img src="generated_samples/rose_sr.jpg"/>
+      <img src="generated_samples/rose_sr.jpg"  width="128" height="128"/>
       <br />
       Generated Image (128x128)
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="generated_samples/purple.jpg"/>
+      <img src="sample_images/purple.jpg"  width="128" height="128"/>
       <br />
       Original Image (32x32)
     </td>
     <td align="center">
-      <img src="generated_samples/purple_sr.jpg"/>
+      <img src="generated_samples/purple_sr.jpg"  width="128" height="128"/>
       <br />
       Generated Image (128x128)
     </td>
