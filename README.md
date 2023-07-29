@@ -25,7 +25,7 @@ A generative adversarial network (GAN) based on the SRGAN architecture from the 
 
 
 ## Architecture
-<img src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-19_at_11.13.45_AM_zsF2pa7.png"/>
+<img src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-07-19_at_11.13.45_AM_zsF2pa7.png" width="850" height="500"/>
 
 
 
